@@ -1,5 +1,5 @@
 # Spam-email-Detection
-College project to detect spam mails
+This is a project that uses Machine learning and detect whether a mail received is spam or not based on the dataset provided to it. The language used here is Python. 
 
 
 Modules used are:-
