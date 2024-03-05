@@ -1,10 +1,14 @@
 # Spam-email-Detection
 This is a project that uses Machine learning and detect whether a mail received is spam or not based on the dataset provided to it. The language used here is Python.
+
 The spam detector involves several key concepts and steps. Here's a detailed overview:
 
 **1. Data Cleaning:**
+
 Handling Missing Values: You dropped columns (Unnamed: 2, Unnamed: 3, Unnamed: 4) containing a significant number of missing values.
+
 Removing Duplicates: You removed duplicate entries from the dataset.
+
 **2. Exploratory Data Analysis (EDA):**
 Data Visualization: You created visualizations to explore the distribution of spam and ham messages.
 Feature Engineering: You created new features such as the number of characters, words, and sentences in each text.
